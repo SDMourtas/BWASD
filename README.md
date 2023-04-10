@@ -1,7 +1,7 @@
 # BWASD
 A Bio-inspired Neural Network for Loan Approval Classification
 Implementation of a 3-layer feed-forward neural network model that is trained using a bio-inspired weights-and-structure-determination (BWASD) algorithm for loan approval classification.\
-The purpose of this package is to determine whether or not to approve a loan through a WASDC neural network.\
+The purpose of this package is to determine whether or not to approve a loan through a BWASD neural network.\
 The main articles used are the followings:
 *	S.D. Mourtas, V.N. Katsikis, P.S. Stanimirovic and L.A. Kazakovtsev, "Loan Approval Classification Using a Bio-inspired Neural Network," (submitted)
 
@@ -30,7 +30,7 @@ Also, the kit includes the following four datasets:
 *	McNemar_test.m: function for mid-p-value McNemar test
 
 # Installation
-*	Unzip the file you just downloaded and copy the WASDC directory to a location,e.g.,/my-directory/
+*	Unzip the file you just downloaded and copy the BWASD directory to a location,e.g.,/my-directory/
 *	Run Matlab/ Octave, Go to /my-directory/BWASD/ at the command prompt
 *	run 'Main_BWASD (Matlab/Octave)
 
