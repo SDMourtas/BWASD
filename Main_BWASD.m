@@ -11,9 +11,9 @@
 %           pecko@pmf.ni.ac.rs, levk@bk.ru                          %
 %                                                                   %
 %   Main paper: S.D.Mourtas, V.N.Katsikis, P.S. Stanimirovic,       %
-%               L.A. Kazakovtsev, "Loan Approval Classification     %
-%               Using a Bio-inspired Neural Network", (submitted)   %
-%                                                                   %
+%               L.A. Kazakovtsev, "Credit and Loan Approval         %
+%               Classification Using a Bio-inspired Neural          %
+%               Network", (submitted)                               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
