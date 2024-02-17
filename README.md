@@ -3,7 +3,7 @@ A Bio-inspired Neural Network for Credit and Loan Approval Classification
 Implementation of a 3-layer feed-forward neural network model that is trained using a bio-inspired weights-and-structure-determination (BWASD) algorithm for credit and loan approval classification.\
 The purpose of this package is to determine whether or not to approve a loan through a BWASD neural network.\
 The main article used is the following:
-*	S.D. Mourtas, V.N. Katsikis, P.S. Stanimirovic and L.A. Kazakovtsev, "Credit and Loan Approval Classification Using a Bio-inspired Neural Network," (submitted)
+*	S.D. Mourtas, V.N. Katsikis, P.S. Stanimirovic and L.A. Kazakovtsev, "Credit and Loan Approval Classification Using a Bio-inspired Neural Network," Biomimetics, 9(2), 120 (2024)
 
 Also, the kit includes the following four datasets:
 *	Loan-Approval-Prediction.csv, taken from https://www.kaggle.com/datasets/ninzaami/loan-predication?resource=download
