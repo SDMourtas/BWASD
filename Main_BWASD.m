@@ -13,7 +13,7 @@
 %   Main paper: S.D.Mourtas, V.N.Katsikis, P.S. Stanimirovic,       %
 %               L.A. Kazakovtsev, "Credit and Loan Approval         %
 %               Classification Using a Bio-inspired Neural          %
-%               Network", (submitted)                               %
+%               Network", Biomimetics, 9(2), 120 (2024)             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
